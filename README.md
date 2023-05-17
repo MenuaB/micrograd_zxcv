@@ -1,1 +1,2 @@
-# micrograd_zxcv
+In this repository I implement a minimalistic version of automatic differentiation software with abilities like backpropagation. There is also a PyTorch Like API on top of that for creating a Neural Network and some test code as well.
+This work is heavily inspired (+99%) by Andrej Karpathy's MicroGrad library, so anyone interested should check the original source here @karpathy
